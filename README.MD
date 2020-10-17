@@ -1,5 +1,8 @@
 # Blackstone Tools Mod
 
+## How to download
+Click on download code extract the file and navigate to the build/libs file and the jar will be there.
+
 ## Inspiration
 I wanted to get blackstone tools in the game
 
@@ -21,6 +24,7 @@ possible removing shards and to override the recipe of crafting stone swords wit
 
 
 ## Screenshots 
+Check the screenshots folder to view the screenshots of the Blackstone Tools Mod
 
 
 
