@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "blackstonetoolsmod:blackstone_shard"
+    }
+  },
+  "result": {
+    "item": "blackstonetoolsmod:blackstone_axe"
+  }
+}

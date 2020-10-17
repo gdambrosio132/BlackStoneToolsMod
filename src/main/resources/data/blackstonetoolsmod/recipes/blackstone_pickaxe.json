@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "bbb",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "b":
+    {
+      "item": "blackstonetoolsmod:blackstone_shard"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "blackstonetoolsmod:blackstone_pickaxe",
+    "count": 1
+  }
+}

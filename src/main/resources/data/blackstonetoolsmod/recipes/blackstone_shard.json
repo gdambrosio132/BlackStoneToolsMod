@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "result":
+  {
+    "item": "blackstonetoolsmod:blackstone_shard",
+    "count": 4
+  }
+}
